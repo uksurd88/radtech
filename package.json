@@ -16,16 +16,17 @@
     "yaml": "^2.8.3",
     "ws": "^8.20.1",
     "devalue": "^5.8.1",
-    "fast-uri": "^3.1.2"
+    "fast-uri": "^3.1.2",
+    "postcss-selector-parser": "^6.1.5"
   },
   "dependencies": {
-    "@astrojs/check": "0.9.8",
-    "@astrojs/mdx": "5.0.4",
-    "@astrojs/react": "5.0.4",
-    "@astrojs/sitemap": "3.7.2",
+    "@astrojs/check": "0.9.12",
+    "@astrojs/mdx": "8.1.2",
+    "@astrojs/react": "7.1.2",
+    "@astrojs/sitemap": "3.7.4",
     "@justinribeiro/lite-youtube": "^1.9.0",
-    "astro": "6.3.6",
-    "astro-auto-import": "^0.5.1",
+    "astro": "7.4.5",
+    "astro-auto-import": "^0.6.0",
     "astro-gtm-lite": "^1.0.1",
     "date-fns": "^4.1.0",
     "fuse.js": "^7.3.0",
@@ -44,7 +45,7 @@
     "prettier": "^3.8.3",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
-    "sharp": "0.34.5",
+    "sharp": "0.35.5",
     "tailwindcss": "^4.2.4",
     "typescript": "^6.0.3"
   }
